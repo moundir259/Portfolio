@@ -9,8 +9,10 @@ module.exports = {
       colors: {
         ink: "#0D0C0A",
         "ink-soft": "#151310",
-        ember: "#E8821E",
-        "ember-soft": "#F2A54F",
+        ember: "#FFD400",
+        "ember-soft": "#FFE566",
+        danger: "#E4362A",
+        "danger-soft": "#C92E24",
         teal: "#1F3B3E",
         "teal-soft": "#2C5459",
         parchment: "#F3ECDF",

@@ -4,7 +4,7 @@
 
 :root {
   --ink: #0d0c0a;
-  --ember: #e8821e;
+  --ember: #ffd400;
   --parchment: #f3ecde;
 }
 
@@ -25,14 +25,14 @@ body {
 }
 
 ::selection {
-  background: #e8821e;
+  background: #ffd400;
   color: #0d0c0a;
 }
 
 /* Keyboard focus visibility */
 a:focus-visible,
 button:focus-visible {
-  outline: 2px solid #e8821e;
+  outline: 2px solid #ffd400;
   outline-offset: 3px;
   border-radius: 2px;
 }
@@ -49,7 +49,7 @@ button:focus-visible {
   border-radius: 999px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #e8821e;
+  background: #ffd400;
 }
 
 /* Grain texture overlay — subtle, cinematic, non-decorative noise */
@@ -84,7 +84,7 @@ button:focus-visible {
   font-size: 0.72rem;
   letter-spacing: 0.28em;
   text-transform: uppercase;
-  color: #e8821e;
+  color: #ffd400;
 }
 
 @media (prefers-reduced-motion: reduce) {
